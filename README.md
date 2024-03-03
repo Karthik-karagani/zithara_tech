@@ -5,7 +5,6 @@ This comprehensive full-stack web application, crafted with React, Node.js, and 
 Let's delve into the step-by-step guide:
 
 Step 1: Set up the Node.js Server
-
 Navigate to the project folder in the command line:
 
 bash
